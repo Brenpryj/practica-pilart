@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #2727e4;
+  background: #41c97e;
 
   display: flex;
   justify-content: center;
@@ -15,4 +15,5 @@ body {
   padding: 30px;
   border-radius: 10px;
   text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
 } 
