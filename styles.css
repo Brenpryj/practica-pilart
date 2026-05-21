@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #2727e4;
+  background: #1e1e2f;
 
   display: flex;
   justify-content: center;
@@ -15,4 +15,14 @@ body {
   padding: 30px;
   border-radius: 10px;
   text-align: center;
-} 
+}
+
+button {
+  background: #6c63ff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+}
+h1 {
+  color: blue;
+}
